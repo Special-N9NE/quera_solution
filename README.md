@@ -11,6 +11,7 @@
 |  جاوا |  [DoShoghle](https://github.com/Special-N9NE/quera_solution/blob/master/DoShoghle.java "DoShoghle") | [دو شغله](https://quera.ir/problemset/111990/)  | 7 |
 |  جاوا |  [ChapBarax](https://github.com/Special-N9NE/quera_solution/blob/master/ChapBarax.java "ChapBarax") | [چاپ برعکس](https://quera.ir/problemset/3405/)  | 8 |
 |  جاوا |  [SadganeKhaste](https://github.com/Special-N9NE/quera_solution/blob/master/SadganeKhaste.java "SadganeKhaste") | [صدگان خسته](https://quera.ir/problemset/3406/)  | 9 |
+|  جاوا |  [YaftanAdadAval](https://github.com/Special-N9NE/quera_solution/blob/master/YaftanAdadAval.java "YaftanAdadAval") | [یافتن عدد اول](https://quera.ir/problemset/593/)  | 10 |
 
 # همکاری
 اگه مسئله ای رو حل کردید (که مسلما باید از طرف کوِئرا نمره 100 گرفته باشه) میتونید کد هاتونو push کنید و باعث بهتر و کاملتر شدن این ریپو بشید  :)
