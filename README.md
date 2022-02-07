@@ -12,6 +12,7 @@
 |  جاوا |  [ChapBarax](https://github.com/Special-N9NE/quera_solution/blob/master/src/ChapBarax.java "ChapBarax") | [چاپ برعکس](https://quera.ir/problemset/3405/)  | 8 |
 |  جاوا |  [SadganeKhaste](https://github.com/Special-N9NE/quera_solution/blob/master/src/SadganeKhaste.java "SadganeKhaste") | [صدگان خسته](https://quera.ir/problemset/3406/)  | 9 |
 |  جاوا |  [YaftanAdadAval](https://github.com/Special-N9NE/quera_solution/blob/master/src/YaftanAdadAval.java "YaftanAdadAval") | [یافتن عدد اول](https://quera.ir/problemset/593/)  | 10 |
+|  جاوا |  [TheDeparted](https://github.com/Special-N9NE/quera_solution/blob/master/src/TheDeparted.java "TheDeparted") | [The Departed (2006)](https://quera.org/problemset/132251/)  | 11 |
 
 # همکاری
 اگه مسئله ای رو حل کردید (که مسلما باید از طرف کوِئرا نمره 100 گرفته باشه) میتونید کد هاتونو push کنید و باعث بهتر و کاملتر شدن این ریپو بشید  :)
