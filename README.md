@@ -13,7 +13,7 @@
 |  جاوا |  [SadganeKhaste](https://github.com/Special-N9NE/quera_solution/blob/master/src/SadganeKhaste.java "SadganeKhaste") | [صدگان خسته](https://quera.ir/problemset/3406/)  | 9 |
 |  جاوا |  [YaftanAdadAval](https://github.com/Special-N9NE/quera_solution/blob/master/src/YaftanAdadAval.java "YaftanAdadAval") | [یافتن عدد اول](https://quera.ir/problemset/593/)  | 10 |
 |  جاوا |  [TheDeparted](https://github.com/Special-N9NE/quera_solution/blob/master/src/TheDeparted.java "TheDeparted") | [The Departed (2006)](https://quera.org/problemset/132251/)  | 11 |
-
+|  جاوا |  [DarMoghabelFil](https://github.com/Special-N9NE/quera_solution/blob/master/src/DarMoghabelFil.java "DarMoghabelFil") | [در مقابل فیل](https://quera.org/problemset/3030/)  | 12 |
 # همکاری
 اگه مسئله ای رو حل کردید (که مسلما باید از طرف کوِئرا نمره 100 گرفته باشه) میتونید کد هاتونو push کنید و باعث بهتر و کاملتر شدن این ریپو بشید  :)
 زبونی که باهاش کد مینویسید فرقی نداره چی باشه فقط باید توی کوئرا اون زبون پشتیبانی بشه (یعنی زبونی باشه که کوئرا قابلیت پذیرفتن اون زبون رو به انواع جواب داشته باشه)
