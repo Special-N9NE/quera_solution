@@ -18,7 +18,7 @@
 | [MosabegheyeAsan](https://github.com/Special-N9NE/quera_solution/blob/master/src/MosabegheyeAsan.java "MosabegheyeAsan") |     [مسابقه ی آسان](https://quera.org/problemset/2439/)     |  14   |
 |        [HefzTartib](https://github.com/Special-N9NE/quera_solution/blob/master/src/HefzTartib.java "HefzTartib")         |       [حفظ ترتیب](https://quera.org/problemset/1359/)       |  15   |
 |    [JameFootballi](https://github.com/Special-N9NE/quera_solution/blob/master/src/JameFootballi.java "JameFootballi")    |      [جمع فوتبالی](https://quera.org/problemset/1359/)      |  16   |
-|     [OtaaghFaraar](https://github.com/Special-N9NE/quera_solution/blob/master/src/OtaghFaraar.java "OtaaghFaraar")      |      [اتاق فرار](https://quera.org/problemset/123801/)      |  17   |
+|     [OtaaghFaraar](https://github.com/Special-N9NE/quera_solution/blob/master/src/OtaaghFaraar.java "OtaaghFaraar")      |      [اتاق فرار](https://quera.org/problemset/123801/)      |  17   |
 
 # همکاری
 اگه مسئله ای رو حل کردید (که مسلما باید از طرف کوِئرا نمره 100 گرفته باشه) و به زبون جاوا نوشته باشیدش ، میتونید کد هاتونو push کنید و باعث بهتر و کاملتر شدن این ریپو بشید  :)
