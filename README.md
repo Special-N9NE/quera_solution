@@ -19,8 +19,9 @@
 |        [HefzTartib](https://github.com/Special-N9NE/quera_solution/blob/master/src/HefzTartib.java "HefzTartib")         |       [حفظ ترتیب](https://quera.org/problemset/1359/)       |  15   |
 |    [JameFootballi](https://github.com/Special-N9NE/quera_solution/blob/master/src/JameFootballi.java "JameFootballi")    |      [جمع فوتبالی](https://quera.org/problemset/1359/)      |  16   |
 |     [OtaaghFaraar](https://github.com/Special-N9NE/quera_solution/blob/master/src/OtaaghFaraar.java "OtaaghFaraar")      |      [اتاق فرار](https://quera.org/problemset/123801/)      |  17   |
+| [BarandeVolleyball](https://github.com/Special-N9NE/quera_solution/blob/master/src/BarandeVolleyball.kt "BarandeVolleyball")  |      [برنده والیبال](https://quera.org/problemset/232025/)      |  18   |
 
 # همکاری
-اگه مسئله ای رو حل کردید (که مسلما باید از طرف کوِئرا نمره 100 گرفته باشه) و به زبون جاوا نوشته باشیدش ، میتونید کد هاتونو push کنید و باعث بهتر و کاملتر شدن این ریپو بشید  :)
+اگه مسئله ای رو حل کردید (که مسلما باید از طرف کوِئرا نمره 100 گرفته باشه) و به زبون جاوا یا کاتلین نوشته باشیدش ، میتونید کد هاتونو push کنید و باعث بهتر و کاملتر شدن این ریپو بشید  :)
 
 یادتون نره اگه دوست داشتید یه ستاره به این ریپو بدید. خوش باشید❤️ 
